@@ -1,0 +1,2 @@
+key "63f223fd624bf128690b1df7d1b20fd5e5109ae0fa5ac78bf2f3e13d64363d47";
+remote ipv6 "fd00:1111:2222::5:1" port 10000;
